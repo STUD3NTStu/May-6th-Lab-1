@@ -40,6 +40,12 @@
 #elif day<=365 and day>334:
   #print('December'+' '+str(day%334))
 
+print('54321')
+print('5432')
+print('543')
+print('54')
+print('5')
+
 n=int(input())
 for i in range(n, 0, -1):
     for x in range(i, 0, -1):
